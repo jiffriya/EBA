@@ -1,0 +1,1 @@
+This folder contains generated features such as ligand Atom, angle, protein, ligand SMILES and pocket for datasets  
